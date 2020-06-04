@@ -4,7 +4,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <p>
           Hello World from Ammad.
         </p>
@@ -16,7 +15,6 @@ function App() {
         >
           Learn React
         </a>
-      </header>
     </div>
   );
 }
